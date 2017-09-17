@@ -1,0 +1,6 @@
+/bin/
+/exposed-doc/
+/.settings/
+/*.classpath
+/*.project
+/*.jar
